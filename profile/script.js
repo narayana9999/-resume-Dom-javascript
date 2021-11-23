@@ -3,7 +3,7 @@ bodyHeader.classList.add("head");
 document.body.append(bodyHeader);
 
 const header_image = document.createElement("img");
-header_image.setAttribute("src", "./sulley.jpg");
+header_image.setAttribute("src", "./Sulley.jpg");
 header_image.classList.add("photo");
 bodyHeader.appendChild(header_image);
 
